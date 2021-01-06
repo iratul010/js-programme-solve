@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,
+body{
+    background-color: #fff;
+    color: rgb(184, 33, 33);
+    font-family: 'Lato', 'Arial', sans-serif;
+    font-weight: 300;
+    font-size: 20px;
+    width: 1300px;
+    height: 1600px;
+    margin: 0 auto;
+    
+    
+  
+  
+}
+
+body h1{
+    color: black;
+    font-size: 70px;
+    text-align: center;
+}
+body table tr td{
+    padding-top: 20px;
+}
